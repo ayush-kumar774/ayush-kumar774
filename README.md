@@ -38,7 +38,7 @@ Feel free to drop a mail at **kumarayushsingh774@gmail.com**
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ayush-kumar774&theme=tokyonight&show_icons=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-kumar774&theme=tokyonight&layout=compact)  
+![](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-kumar774&layout=compact&theme=tokyonight&hide=csharp))  
 
 ---
 
